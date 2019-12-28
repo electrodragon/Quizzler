@@ -1,2 +1,2 @@
 # Quizzler
-![App Screenshot] (https://i.imgur.com/NExqnHT.png)
+![App Screenshot](https://i.imgur.com/NExqnHT.png)
