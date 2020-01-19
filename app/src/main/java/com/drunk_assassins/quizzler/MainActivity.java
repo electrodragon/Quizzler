@@ -88,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
             AlertDialog.Builder alert = new AlertDialog.Builder(this);
             alert.setTitle("Game Over");
             alert.setCancelable(false);
-            alert.setMessage("You scored " + mScore + "Points !");
+            alert.setMessage("You scored " + mScore + " Points !");
             alert.setPositiveButton("Close Application", new DialogInterface.OnClickListener() {
                 @Override
                 public void onClick(DialogInterface dialog, int which) {finish();
